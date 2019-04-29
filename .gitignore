@@ -1,3 +1,6 @@
 *.zip
 img_*
-log/
+log/*
+models/*
+.ipynb_checkpoints/*
+checkpoints/*
